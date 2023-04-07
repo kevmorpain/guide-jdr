@@ -2,6 +2,7 @@ import { defineConfig } from 'vitepress'
 
 // https://vitepress.dev/reference/site-config
 export default defineConfig({
+  base: "/guide-jdr/",
   title: "Guide JDR",
   description: "Guide JDR en markdown",
   themeConfig: {
