@@ -5,6 +5,7 @@ export default defineConfig({
   base: "/guide-jdr/",
   title: "Guide JDR",
   description: "Guide JDR en markdown",
+  cleanUrls: true,
   themeConfig: {
     // https://vitepress.dev/reference/default-theme-config
     nav: [
