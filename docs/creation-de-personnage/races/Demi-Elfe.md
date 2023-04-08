@@ -1,3 +1,6 @@
+---
+title: Demi-Elfe
+---
 Fréquentant deux mondes, mais n'appartenant vraiment à aucun des deux, les demi-elfes combinent ce que certains disent être les meilleures qualités de leurs parents elfes et humains : la curiosité et la créativité humaine, et une ambition tempérée par des sens raffinés, l'amour de la nature et les goûts artistiques des elfes. Certains demi-elfes vivent parmi les humains, un peu en marge de par leurs différences physiques et émotionnelles, en regardant vieillir leurs amis et leurs proches alors que le temps les touche à peine. D'autres vivent chez les elfes, devenant adultes alors que leurs pairs continuent de vivre comme des enfants, s'agitant de plus en plus dans ces royaumes elfiques intemporels. Beaucoup d'autres demi-elfes, incapables de s'intégrer dans quelle société que ce soit, choisissent une vie d'errance solitaire, ou rejoignent d'autres marginaux et exclus pour partager une vie d'aventures.
 
 ## Issus de deux mondes
@@ -18,5 +21,5 @@ Votre personnage demi-elfe possède les traits suivants.
 - ***Vitesse*** : Votre vitesse de base au sol est de 9 m.
 - ***Vision dans le noir*** : Grâce à votre sang elfe, vous avez une vision supérieure dans le noir et les conditions de faible éclairage. Vous pouvez voir à 18 mètres dans une lumière faible comme vous verriez avec une lumière vive, et dans le noir comme vous verriez avec une lumière faible. Vous ne discernez pas les couleurs dans les ténèbres, mais percevez des nuances de gris.
 - ***Ascendance féerique*** : Vous êtes avantagé aux jets de sauvegarde contre l'état [[charmé]] et la magie ne peut pas vous endormir.
-- **Polyvalence** : Vous gagnez la maîtrise de deux compétences de votre choix.
+- ***Polyvalence*** : Vous gagnez la maîtrise de deux compétences de votre choix.
 - ***Langues*** : Vous parlez, lisez et écrivez en commun, l'elfique et une langue supplémentaire de votre choix.

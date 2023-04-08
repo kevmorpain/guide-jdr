@@ -20,7 +20,9 @@ features:
     link: /creation-de-personnage/races/
   - title: Liste des classes
     details: Lorem ipsum dolor sit amet, consectetur adipiscing elit
+    link: /creation-de-personnage/classes/
   - title: Liste des sorts
     details: Lorem ipsum dolor sit amet, consectetur adipiscing elit
+    link: /creation-de-personnage/sorts/
 ---
 

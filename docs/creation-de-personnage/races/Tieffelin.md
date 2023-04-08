@@ -1,3 +1,6 @@
+---
+title: Tieffelin
+---
 Être accueilli par des regards suspicieux et des murmures, souffrir insultes et violences à chaque coin de rue, croiser le doute et la peur dans chaque regard, tel est le lot quotidien du tieffelin. Et pour remuer le couteau dans la plaie, les tieffelins ont conscience que tout cela vient d'un pacte passé il y a plusieurs générations qui imprégna leur lignée de l'essence d'Asmodée, le seigneur des Neuf enfers. Leur apparence et leur nature ne sont pas le fruit de leur volonté, mais la conséquence d'un péché ancien duquel eux-mêmes, leurs enfants et toute leur descendance, seront toujours redevables.
 
 ## Lignée infernale
@@ -15,5 +18,5 @@ N'ayant pas de nations, les tieffelins savent qu'ils doivent se faire leur place
 - ***Vitesse*** : 9 m
 - ***Vision dans le noir*** : Grâce à votre héritage infernal, vous avez une vision supérieure dans le noir et les conditions de faible éclairage. Vous pouvez voir à 18 mètres dans une lumière faible comme vous verriez avec une lumière vive, et dans le noir comme vous verriez avec une lumière faible. Dans le noir, vous ne discernez pas les couleurs, uniquement des nuances de gris.
 - ***Résistance infernale*** : Vous avez la résistance aux dégâts de feu.
-- ***Ascendance infernale.*** : Vous connaissez le sort mineur [[Thaumaturgie]]. Quand vous atteignez le niveau 3, vous pouvez lancer le sort [[Représailles infernales]] comme un sort de niveau 2 une fois avec ce trait et regagnez cette capacité lorsque vous terminez un repos long. Quand vous atteignez le niveau 5, vous pouvez lancer le sort [[Ténèbres]] une fois avec ce trait et regagnez cette capacité lorsque vous terminez un repos long. Le Charisme est votre caractéristique d'incantation pour ces sorts.
+- ***Ascendance infernale.*** : Vous connaissez le sort mineur [[/sorts/Thaumaturgie|Thaumaturgie]]. Quand vous atteignez le niveau 3, vous pouvez lancer le sort [[/sorts/Représailles-infernales|Représailles infernales]] comme un sort de niveau 2 une fois avec ce trait et regagnez cette capacité lorsque vous terminez un repos long. Quand vous atteignez le niveau 5, vous pouvez lancer le sort [[/sorts/Ténèbres|Ténèbres]] une fois avec ce trait et regagnez cette capacité lorsque vous terminez un repos long. Le Charisme est votre caractéristique d'incantation pour ces sorts.
 - ***Langues*** : Vous parlez, lisez et écrivez le commun et l'infernal.

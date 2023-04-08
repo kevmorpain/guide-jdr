@@ -127,7 +127,7 @@ Décrivrez un idéal qui anime votre personnage. Vos idéaux correspondent à ce
 
 Vos idéeaux vous appartiennent, mais l'alignement de votre personnage est souvent un bon point de départ. Chaque historique vous suggère des idéaux, dont cinq sont liés à un axe de l'alignement : loi, chaos, bien, mal et neutralité.
 
-#### Obligations
+#### Liens
 Donnez une obligation à votre personnage. Les obligations représentent ce qui vous rattache aux gens, aux lieux et aux évènements de ce monde. Elle vous rapprochent d'élements de votre historique. Elles peuvent vous pousser à l'héroïsme ou vous inciter à agir contre votre intérêt quand ce que vous chérissez est menacé. On peut d'ailleurs les comparer aux idéaux, car elles alimentent les desseins et les motivations du personnage.
 
 Une obligation répond souvent à l'une de ces questions : qui sont les êtres les plus chers à vos yeux ? À quel lieu vous soutez-vous le plus lié ? Quel est votre bien le plus précieux ?
@@ -140,7 +140,7 @@ Choisissez une faille, qui représente un vice, une crainte ou une faiblesse ; u
 ### Taille et poids
 Déterminez la taille et le poids de votre personnage. La description de votre race vous donne une idée de ces mensurations, mais vous pouvez aussi les déterminer au hasard en consultant la table ci-dessous. Le jet de dés indiqué dans la colonne *Modification de taille* définit de combien de centimètres votre personnage excède la taille de base. Ce même nombre, multiplié par le jet de dés ou la valeur indiqués à la colonne *Modificateur de poids* définit de combien de kilogrammes il dépasse le poids de base.
 
-| Race|Taille de base|Modificateur de taille|Poids de base|Modificateur de poids|
+|Race|Taille de base|Modificateur de taille|Poids de base|Modificateur de poids|
 |--|--|--|--|--|
 |Humain|1,45|+2d10 x 2,5|55|x 2d4 / 2|
 |Elfe sylvestre|1,40|+2d10 x 2,5|50|x 1d4 / 2|

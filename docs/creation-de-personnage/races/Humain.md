@@ -1,3 +1,6 @@
+---
+title: Humain
+---
 Dans la plupart des mondes, les humains sont considérés comme la plus jeune des espèces communes et vivent peu de temps comparés aux nains, aux elfes et aux dragons. C'est peut-être cette longévité modeste qui les pousse à accomplir tant de choses dans le temps qui leur est imparti. À moins qu'ils estiment avoir quelque chose à prouver aux espèces plus anciennes, ce qui expliquerait leurs puissants empires. Quelle que soit leur motivation, les humains restent les novateurs, les battants et les pionniers de ces mondes.
 
 ## Une variété universelle

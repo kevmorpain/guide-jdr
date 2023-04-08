@@ -1,3 +1,6 @@
+---
+title: Elfe
+---
 Peuple à la grâce surnaturelle, les elfes vivent en des lieux à la beauté éthérée, au coeur de forêts ancestrales ou dans des tours effilées étincelant d'éclats féériques, bercés de douces mélodies et où la brise exhale des fragrances exquises.
 
 Les elfes qu'on croise hors de leurs domaines sont souvent ménestrels ambulants, artistes ou itinérants. Les nobles humains se disputent les services des professeurs elfes pour enseigner le maniement de l'épée ou la magie à leur progéniture.
@@ -31,5 +34,5 @@ Votre personnage elfe possède les traits suivants.
 ### Haut-elfe
 - ***Augmentation de caractéristique*** : Intelligence +1
 - ***Entraînement aux armes elfiques*** : Vous avez la maîtrise de l'épée longue, de l'épée courte, de l'arc court et de l'arc long.
-- ***Sort mineur*** : Vous connaissez un sort mineur de la liste de sorts du [[magicien]] (au choix). L'Intelligence est la caractéristique d'incantation correspondante.
+- ***Sort mineur*** : Vous connaissez un sort mineur de la liste de sorts du [[/creation-de-personnage/classes/Magicien|magicien]] (au choix). L'Intelligence est la caractéristique d'incantation correspondante.
 - ***Langue supplémentaire*** : Vous parlez, lisez et écrivez une langue supplémentaire de votre choix.

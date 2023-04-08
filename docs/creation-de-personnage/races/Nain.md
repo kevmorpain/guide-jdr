@@ -1,3 +1,6 @@
+---
+title: Nain
+---
 Des royaumes dont la noblesse n'a d'égale que l'ancienneté, des demeures creusées dans la racines des montagnes, l'écho des pioches et des marteaux s'élevant des mines profondes et des forges flamboyantes, le dévouement envers le clan et la tradition, tels sont les liens qui unissent tous les nains.
 
 ## À mémoire longue, rancunes tenaces

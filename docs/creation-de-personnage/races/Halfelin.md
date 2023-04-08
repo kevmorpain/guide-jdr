@@ -1,3 +1,6 @@
+---
+title: Halfelin
+---
 Le confort du foyer constitue l'ambition majeure de la plupart des halfelins : de quoi se poser dans la paix et la quiétude, loin des monstres en maraude et du fracas des armées ; un âtre bien alimenté et un repas copieux, une bonne chope et une conversation entre amis. Certains halfelins coulent leurs jours au sein d'une communauté agricole reculée, d'autres forment des troupes nomades qui voyagent à longueur de temps au gré de la route sans fin et des vastes horizons qui promettent de nouvelles contrées merveilleuses, de nouvelles cultures.
 
 ## Petits mais pragmatiques
