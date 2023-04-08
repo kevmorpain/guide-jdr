@@ -1,5 +1,6 @@
 // https://vitepress.dev/guide/custom-theme
 import { h } from 'vue'
+import './tailwind.postcss'
 import Theme from 'vitepress/theme'
 import CustomNotFound from './CustomNotFound.vue'
 import LayoutHeader from './LayoutHeader.vue'

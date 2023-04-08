@@ -21,7 +21,7 @@ export default defineConfig({
     nav: [
       { text: 'Races', link: '/creation-de-personnage/races/' },
       { text: 'Classes', link: '/creation-de-personnage/classes/' },
-      { text: 'Sorts', link: '/sorts/' },
+      { text: 'Sorts', link: '/sorts' },
     ],
 
     sidebar: {
@@ -88,7 +88,7 @@ export default defineConfig({
 function customPostProcessPageName(pageName: string): string {
   pageName = pageName.trim()
   pageName = pageName.split('/').map(s => sanitize(s)).join('/')
-  pageName = pageName.replaceAll(/\s+/g, '-')
+  pageName = pageName.replaceAll(/\s/g, '-').replaceAll(/'/g, '')
 
   return pageName
 }

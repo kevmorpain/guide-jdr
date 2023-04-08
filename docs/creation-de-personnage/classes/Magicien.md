@@ -90,7 +90,7 @@ Voici la liste des sorts que vous consultez lorsque vous apprenez un sort de mag
 - [[/sorts/Immobilisation de personne|Immobilisation de personne]] (enchantement)
 - [[/sorts/Invisibilité|Invisibilité]] (illusion)
 - [[/sorts/Lévitation|Lévitation]] (transmutation)
-- [[/sorts/Pattes daraignée|Pattes d'araignée]] (transmutation)
+- [[/sorts/Pattes d'araignée|Pattes d'araignée]] (transmutation)
 - [[/sorts/Sphère de feu|Sphère de feu]] (invocation)
 - [[/sorts/Suggestion|Suggestion]] (enchantement)
 - [[/sorts/Ténèbres|Ténèbres]] (évocation)
