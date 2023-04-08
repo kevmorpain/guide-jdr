@@ -1,9 +1,9 @@
 ---
 title: Liste des sorts
 ---
-<ul class="border-2 border-blue-700">
-  <li v-for="spell of spells" clas="flex gap-x-8">
-    <a :href="spell.url">{{ spell.frontmatter.title }}</a>
+<ul>
+  <li v-for="spell of spells">
+    <a :href="`.${spell.url}`">{{ spell.frontmatter.title }}</a>
     ({{ spell.frontmatter.school }} niveau {{ spell.frontmatter.level }})
     <template v-if="spell.frontmatter.ritual"> rituel</template>
   </li>

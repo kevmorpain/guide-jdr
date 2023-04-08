@@ -78,7 +78,7 @@ export default defineConfig({
           rowspan: true,
         })
         .use(require('markdown-it-wikilinks')({
-          baseUrl,
+          baseURL: baseUrl,
           postProcessPageName: customPostProcessPageName,
         }))
     }
