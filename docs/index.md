@@ -4,22 +4,23 @@ layout: home
 
 hero:
   name: "Guide JDR"
-  text: "Guide JDR en markdown"
-  tagline: My great project tagline
+  text: "(Quasi) complet"
+  tagline: Pour bien appréhender la campagne à venir
   actions:
     - theme: brand
-      text: Markdown Examples
-      link: /markdown-examples
+      text: Guide
+      link: guide/
     - theme: alt
-      text: API Examples
-      link: /api-examples
+      text: Création de personnage
+      link: creation-de-personnage/
 
 features:
-  - title: Feature A
+  - title: Liste des races
+    details: Les humains restent le peuple le plus nombreux des mondes de D&D, mais ils vivent et travaillent aux côtés des nains, des elfes, des halfelins et d'innombrables autres espèces fantastiques.
+    link: /creation-de-personnage/races/
+  - title: Liste des classes
     details: Lorem ipsum dolor sit amet, consectetur adipiscing elit
-  - title: Feature B
-    details: Lorem ipsum dolor sit amet, consectetur adipiscing elit
-  - title: Feature C
+  - title: Liste des sorts
     details: Lorem ipsum dolor sit amet, consectetur adipiscing elit
 ---
 
