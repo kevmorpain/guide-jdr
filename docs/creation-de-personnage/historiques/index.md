@@ -3,9 +3,19 @@ title: Liste des historiques
 ---
 
 - [[Acolyte]]
-- [[Artiste]]
+- [[Artisan de guilde]]
+- [[Artiste|Artiste]] (variante du Gladiateur)
 - [[Charlatan]]
+- [[Noble|Chevalier]] (variante du Noble)
 - [[Criminel]]
-- [[Noble]]
+- [[Ermite]]
+- [[Artiste|Gladiateur]] (variante de l'Artiste)
+- [[Gosse des rues]]
+- [[Héros du peuple]]
+- [[Artisan de guilde|Marchand de guilde]] (variante de l'Artisan de guilde)
+- [[Marin]]
+- [[Noble|Noble]] (variante du Chevalier)
+- [[Marin|Pirate]] (variante du Marin)
 - [[Sage]]
+- [[Sauvageon]]
 - [[Soldat]]

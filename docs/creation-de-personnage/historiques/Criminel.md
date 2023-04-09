@@ -71,3 +71,6 @@ Les criminels peuvent ressembler à des méchants de prime abord, et beaucoup d'
 |4|Il y a quelque chose qui me trahit quand je mens.|
 |5|Je tourne le dos et m'enfuis en courant quand les choses vont mal.|
 |6|Une personne innocente est en prison pour un crime que j'ai commis. Et je n'ai pas de problème avec cela.|
+
+## Variante : Espion
+Bien que vos capacités ne soient pas très différentes de celles d'un cambrioleur ou d'un contrebandier, vous les avez apprises et pratiquées dans un contexte très différent : en tant qu'espion. Vous pourriez être un agent officiellement embauché par une couronne, ou plutôt vendre vos secrets au plus offrant.

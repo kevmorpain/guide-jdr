@@ -22,6 +22,7 @@ export default defineConfig({
     nav: [
       { text: 'Races', link: '/creation-de-personnage/races/' },
       { text: 'Classes', link: '/creation-de-personnage/classes/' },
+      { text: 'Historiques', link: '/creation-de-personnage/historiques/' },
       { text: 'Sorts', link: '/sorts' },
     ],
 
@@ -59,18 +60,28 @@ export default defineConfig({
           collapsed: false,
           items: [
             { text: 'Acolyte', link: '/creation-de-personnage/historiques/Acolyte' },
+            { text: 'Artisan de guilde', link: '/creation-de-personnage/historiques/Artisan-de-guilde' },
             { text: 'Artiste', link: '/creation-de-personnage/historiques/Artiste' },
             { text: 'Charlatan', link: '/creation-de-personnage/historiques/Charlatan' },
+            { text: 'Chevalier', link: '/creation-de-personnage/historiques/Noble#variante-chevalier' },
             { text: 'Criminel', link: '/creation-de-personnage/historiques/Criminel' },
+            { text: 'Ermite', link: '/creation-de-personnage/historiques/Ermite' },
+            { text: 'Gladiateur', link: '/creation-de-personnage/historiques/Artiste#variante-gladiateur' },
+            { text: 'Gosse des rues', link: '/creation-de-personnage/historiques/Gosse-des-rues' },
+            { text: 'Héros du peuple', link: '/creation-de-personnage/historiques/Héros-du-peuple' },
+            { text: 'Marchant de guilde', link: '/creation-de-personnage/historiques/Artisan-de-guilde#variante-marchand-de-guilde' },
+            { text: 'Marin', link: '/creation-de-personnage/historiques/Marin' },
             { text: 'Noble', link: '/creation-de-personnage/historiques/Noble' },
+            { text: 'Pirate', link: '/creation-de-personnage/historiques/Marin#variante-pirate' },
             { text: 'Sage', link: '/creation-de-personnage/historiques/Sage' },
+            { text: 'Sauvageon', link: '/creation-de-personnage/historiques/Sauvageon' },
             { text: 'Soldat', link: '/creation-de-personnage/historiques/Soldat' },
           ]
         }
       ],
 	    '/sorts/': scanDir('sorts'),
     },
-    outline: [2,3],
+    outline: [2, 3],
     outlineTitle: 'Sur cette page'
   },
 
