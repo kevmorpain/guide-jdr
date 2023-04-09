@@ -1,5 +1,7 @@
 <template>
-  <h1>{{ frontmatter.title }}</h1>
+  <div class="vp-doc">
+    <h1>{{ frontmatter.title }}</h1>
+  </div>
 </template>
 
 <script setup lang="ts">
