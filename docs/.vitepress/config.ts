@@ -1,5 +1,6 @@
 import { defineConfig } from 'vitepress'
 import sanitize from 'sanitize-filename'
+import { scanDir } from './config/utils'
 
 const baseUrl = '/guide-jdr/'
 
@@ -66,6 +67,7 @@ export default defineConfig({
           ]
         }
       ],
+	    '/sorts/': scanDir('sorts'),
     },
     outline: [2,3],
     outlineTitle: 'Sur cette page'

@@ -22,7 +22,7 @@
     "docs/.**/**/*.ts",
     "docs/.**/**/*.tsx",
     "docs/.**/**/*.vue"
-  ],
+, "docs/.vitepress/config/sidebar.js"  ],
   "exclude": ["**/node_modules/**", "**/dist/**"],
   "extensions": [".js", ".ts", ".tsx", ".jsx", ".vue"],
   "allowSyntheticDefaultImports": true
