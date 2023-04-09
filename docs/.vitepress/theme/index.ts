@@ -3,7 +3,7 @@ import { h } from 'vue'
 import './tailwind.postcss'
 import Theme from 'vitepress/theme'
 import CustomNotFound from './CustomNotFound.vue'
-import LayoutHeader from './LayoutHeader.vue'
+import CustomTitle from './CustomTitle.vue'
 import './style.css'
 
 export default {
@@ -11,8 +11,8 @@ export default {
   Layout: () => {
     return h(Theme.Layout, null, {
       // https://vitepress.dev/guide/extending-default-theme#layout-slots
-      'doc-before': () => h(LayoutHeader),
+      'doc-before': () => h(CustomTitle),
       'not-found': () => h(CustomNotFound),
     })
-  },
+  }
 }

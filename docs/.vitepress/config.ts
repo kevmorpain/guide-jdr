@@ -60,6 +60,7 @@ export default defineConfig({
           items: [
             { text: 'Acolyte', link: '/creation-de-personnage/historiques/Acolyte' },
             { text: 'Artiste', link: '/creation-de-personnage/historiques/Artiste' },
+            { text: 'Charlatan', link: '/creation-de-personnage/historiques/Charlatan' },
             { text: 'Criminel', link: '/creation-de-personnage/historiques/Criminel' },
             { text: 'Noble', link: '/creation-de-personnage/historiques/Noble' },
             { text: 'Sage', link: '/creation-de-personnage/historiques/Sage' },
@@ -84,7 +85,7 @@ export default defineConfig({
           postProcessPageName: customPostProcessPageName,
         }))
     }
-  }
+  },
 })
 
 function customPostProcessPageName(pageName: string): string {
