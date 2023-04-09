@@ -1,5 +1,5 @@
 ---
-title: Liste des historiques
+title: Artiste
 ---
 Vous vous épanouissez lorsque vous vous trouvez devant un public. Vous savez comment l'hypnotiser, comment l'amuser, comment l'inspirer. Vos poèmes font fondre les cœurs de ceux qui vous écoutent, réveillant les colères et les joies, répandant le rire ou la tristesse. Votre musique envahit leur esprit et s'empare de leurs douleurs. Vos pas de danse hypnotisent, votre humour pique au vif. Quelles que soient les techniques que vous utilisiez, l'art est toute votre vie.
 

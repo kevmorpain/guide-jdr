@@ -1,5 +1,5 @@
 ---
-title: Liste des historiques
+title: Noble
 ---
 Vous savez ce qu'est la richesse, le pouvoir et les privilèges. Vous portez un titre de noblesse, et votre famille possède des terres, perçoit des impôts, et exerce une influence politique significative. Vous pourriez être un aristocrate choyé qui ne connaît pas le travail et l'inconfort, un ancien marchand qui vient d'être élevé au rang de noble, ou une fripouille déshéritée avec un attrait pour les titres disproportionnés. Ou vous pourriez être un honnête propriétaire terrien qui travaille dur et qui se soucie profondément des gens qui vivent et travaillent sur ses terres, tout à fait conscient de votre responsabilité envers eux. Travaillez avec votre MD pour définir un titre approprié et quelle autorité ce titre vous donne. Un titre de noblesse n'est pas une chose personnelle, il concerne une famille entière, et, quel que soit le titre que vous détenez, vous le transmettrez à vos enfants. Donc non seulement vous devez déterminer votre titre de noblesse, mais vous devez également travailler avec votre MD pour décrire votre famille et l'influence qu'elle a sur vous.
 

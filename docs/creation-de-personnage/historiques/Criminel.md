@@ -1,5 +1,5 @@
 ---
-title: Liste des historiques
+title: Criminel
 ---
 Vous êtes un criminel expérimenté avec un long passif d'infractions à la loi. Vous avez passé beaucoup de temps aux côtés d'autres criminels et avez encore des contacts au sein de la pègre. Vous êtes bien plus familier que la plupart des autres personnes avec le monde du meurtre, du vol et de la violence qui règne au sein de la civilisation, et vous avez survécu jusque là en bafouant les règles et les lois de la société.
 

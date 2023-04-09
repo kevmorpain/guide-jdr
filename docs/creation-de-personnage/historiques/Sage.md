@@ -1,5 +1,5 @@
 ---
-title: Liste des historiques
+title: Sage
 ---
 Vous avez passé des années à étudier le multivers. Vous avez écumé les manuscrits, dévoré des parchemins et écouté les plus grands experts sur les sujets qui vous intéressent. Vos efforts ont fait de vous un maître dans vos domaines d'études.
 
