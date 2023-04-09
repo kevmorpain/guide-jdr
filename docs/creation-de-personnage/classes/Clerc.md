@@ -181,7 +181,114 @@ Au niveau 1, vous recevez la maîtrise des armures lourdes.
 
 #### Conduit divin : Survivance
 À partir du niveau 2, vous pouvez utiliser votre Conduit divin pour soigner des blessures graves.
+
 Au prix d'une action, vous présentez votre symbole sacré et invoquez une énergie curative qui redonne un montant de points de vie égal à 5 fois votre niveau de clerc. Choisissez une ou plusieurs créatures à 9 mètres ou moins de vous, et divisez ces points entre elles. Cette capacité ne peut pas ramener une créature à plus de la moitié de son maximum des points de vie, et elle n'a pas d'effet sur les morts-vivants et les artificiels.
 
 #### Guérisseur béni
 À partir du niveau 6, les sorts de guérison que vous lancez sur les autres vous guérissent aussi. Lorsque vous lancez un sort de niveau 1 ou supérieur pour redonner des points de vie à une créature autre que vous-même, vous regagnez un nombre de points de vie égal à 2 + le niveau du sort.
+
+### Domaine de la Duperie
+Les dieux de la duperie (comme Tymora, Beshaba, Olidammara, le Voyageur, Garl Brilledor et Loki) sont des fauteurs de troubles et des instigateurs qui représentent un défi constant à l'ordre accepté parmi les dieux et les mortels. Ils sont les patrons des voleurs, des canailles, des joueurs, des rebelles et des libérateurs. Leurs clercs sont une force perturbatrice, se moquant de tyrans, volant les riches, libérant les captifs, et bafouant les traditions. Ils préfèrent le subterfuge, les farces, la tromperie et le vol plutôt qu'une confrontation directe.
+
+#### Sorts du domaine de la Duperie
+|Niveau de clerc|Sorts|
+|--|--|
+|1|Charme-personne, Déguisement|
+|3|Image miroir, Passage sans trace|
+|5|Clignotement, Dissipation de la magie|
+
+#### Bénédiction de l'escroc
+À partir du niveau 1, vous pouvez utiliser votre action pour toucher une créature consentante (autre que vous-même) et lui donner un avantage aux jets de Dextérité (Discrétion). Cette bénédiction dure pendant 1 heure, ou jusqu'à ce que vous utilisiez cette capacité à nouveau.
+
+#### Conduit divin : Invocation de réplique
+À partir du niveau 2, vous pouvez utiliser votre Conduit divin pour créer une copie illusoire de vous-même.
+
+Par une action, vous créez une illusion parfaite de vous-même qui dure pendant 1 minute, ou jusqu'à ce que vous perdiez votre concentration (comme si vous étiez concentré sur un sort). L'illusion apparaît dans un espace inoccupé que vous pouvez voir dans un rayon de 9 mètres autour de vous. Par une action bonus à votre tour, vous pouvez déplacer l'illusion jusqu'à 9 mètres, dans un espace que vous pouvez voir, et sans l'éloigner de plus de 36 mètres de vous. Durant ce temps, vous pouvez lancer des sorts comme si vous étiez dans l'espace de l'illusion, mais vous devez utiliser vos propres sens. En outre, lorsque vous et votre illusion êtes à 1,50 mètre ou moins d'une créature qui peut voir l'illusion, vous avez un avantage aux jets d'attaque contre cette créature, l'illusion distrayant la cible.
+
+#### Conduit divin : Linceul d'ombre
+À partir du niveau 6, vous pouvez utiliser votre Conduit divin pour disparaître. Par une action, vous devenez invisible jusqu'à la fin de votre prochain tour. Vous redevenez visible si vous attaquez ou lancez un sort.
+
+### Domaine de la Lumière
+Les dieux de la lumière (y compris Helm, Lathandre, Pholtus, Branchala, la Flamme d'argent, Bélénus, Apollo et Ré-Horakhty) promeuvent les idéaux de renaissance et de renouveau, de vérité, de vigilance et de beauté, souvent en utilisant le symbole du soleil. Certains de ces dieux sont dépeints comme le soleil lui-même ou comme le conducteur du char qui guide le soleil à travers le ciel. D'autres sont d'inlassables sentinelles dont les yeux percent chaque ombre et voient à travers toutes les tromperies. Certains sont des divinités de la beauté et des artistes, qui enseignent que l'art est un véhicule ou l'amélioration de l'âme. Les clercs d'un dieu de la lumière sont des âmes éclairées infusés par l'éclat et la puissance de la vision perspicace de leurs dieux, et chargés de chasser les mensonges et de brûler les ténèbres.
+
+#### Sorts du domaine de la Lumière
+|Niveau de clerc|Sorts|
+|--|--|
+|1|Lueurs féériques, Mains brûlantes|
+|3|Rayon ardent, Sphère de feu|
+|5|Boule de feu, Lumière du jour|
+
+#### Sort mineur supplémentaire
+Lorsque vous choisissez ce domaine au niveau 1, vous gagnez le sort mineur [[/sorts/Lumière|Lumière]] si vous ne le connaissez pas déjà. Ce sort mineur ne compte pas dans le nombre de sorts mineurs de Clerc que vous connaissez.
+
+#### Illumination protectrice
+Au niveau 1, vous pouvez interposer une lumière divine entre vous et un ennemi qui attaque. Lorsque vous êtes attaqué par une créature située à 9 mètres ou moins de vous et que vous pouvez voir, vous pouvez utiliser votre réaction pour imposer un désavantage à son jet d'attaque, en faisant éclater une lumière avant qu'il touche ou rate. Un attaquant qui ne peut pas être aveuglé est immunisé face à cette capacité. Vous pouvez utiliser cette capacité un nombre de fois égal à votre modificateur de Sagesse (minimum une fois). Vous en retrouver toutes les utilisations dépensées lorsque vous terminez un repos long.
+
+#### Conduit divin : Radiance de l'aube
+À partir du niveau 2, vous pouvez utiliser votre Conduit divin pour exploiter la lumière du soleil, bannissant les ténèbres et infligeant des dégâts radiants à vos ennemis. Par une action, vous présentez votre symbole sacré et toutes les ténèbres magiques dans un rayon de 9 mètres autour de vous sont dissipées. En outre, chaque créature hostile dans un rayon de 9 mètres autour de vous doit réaliser un jet de sauvegarde de Constitution. Une créature prend 2d10 + votre niveau de clerc dégâts radiants en cas d'échec, ou la moitié de ces dégâts en cas de réussite. Une créature qui dispose d'une couverture totale vis à vis de vous n'est pas affectée.
+
+#### Illumination améliorée
+À partir du niveau 6, vous pouvez également utiliser votre capacité Illumination protectrice quand une créature que vous pouvez voir et située à 9 mètres ou moins de vous attaque une créature autre que vous-même.
+
+### Domaine de la Nature
+Les dieux de la nature sont aussi variés que le monde naturel lui-même, qu'ils soient d'impénétrables dieux des forêts profondes (comme Sylvanus, Obad-Hai, Kislev, Balinor et Pan) ou des divinités amicales associées à des sources ou des bosquets (comme Eldath) particuliers. Les druides vénèrent la nature dans son ensemble et peuvent servir l'une de ces divinités, pratiquant des rites mystérieux et récitant des prières anciennes dans leur propre langue secrète. Mais beaucoup de ces dieux ont aussi des clercs, des champions qui prennent un rôle plus actif dans la promotion des intérêts d'un dieu de la nature en particulier. Ces clercs peuvent chasser les monstres maléfiques qui dépouillent les forêts, bénir la récolte des fidèles, ou dépérir les cultures de ceux qui mettent en colère leurs dieux.
+
+#### Sorts du domaine de la Nature
+|Niveau de clerc|Sorts|
+|--|--|
+|1|Amitié avec les animaux, Communication avec les animaux|
+|3|Croissance d'épines, Peau d'écorce|
+|5|Croissance végétale, Mur de vent|
+
+#### Disciple de la Nature
+Au niveau 1, vous apprenez un sort mineur de [[Druide]] de votre choix. Ce sort mineur compte comme un sort mineur de clerc pour vous, mais il ne compte pas dans le nombre de sorts mineurs de clerc que vous connaissez. Vous gagnez également la maîtrise d'une des compétences suivantes de votre choix : Dressage, Nature ou Survie.
+
+#### Maîtrise supplémentaire
+Au niveau 1 également, vous gagnez la maîtrise des armures lourdes.
+
+#### Conduit divin : charme des animaux et des plantes
+À partir du niveau 2, vous pouvez utiliser votre Conduit divin pour charmer des animaux et de plantes. Par une action, vous présentez votre symbole sacré et invoquez le nom de votre divinité. Chaque créature du type bête ou plante qui peut vous voir et qui se situe dans un rayon de 9 mètres autour de vous doit réaliser un jet de sauvegarde de Sagesse. Si la créature rate son jet de sauvegarde, vous la charmez pendant 1 minute, ou jusqu'à ce qu'elle subisse des dégâts. Tant que vous la charmez, elle est amicale envers vous et toutes autres créatures que vous désignez.
+
+#### Atténuation des éléments
+À partir du niveau 6, lorsque vous ou une créature située à 9 mètres ou moins de vous prend des dégâts d'acide, de froid, de feu, de foudre ou de tonnerre, vous pouvez utiliser votre réaction pour accorder à la créature une résistance à ce type de dégâts.
+
+### Domaine du Savoir
+Les dieux du savoir (comme Oghma, Boccob, Giléan, Auréon et Thoth) estiment l’apprentissage et la compréhension au-dessus de tout. Certains enseignent que le savoir doit être regroupé et partagé dans des bibliothèques ou des universités, ou encouragent la pratique de la fabrication et l'inventivité. Certaines divinités accumulent les savoirs et les garde secrètes pour elles-mêmes. D'autres promettent à leurs suivants qu’ils obtiendront une puissance phénoménale en découvrant les secrets du multivers. Les suivants de ces dieux étudient les traditions, collectent de vieux ouvrages, s’aventurent dans les lieux les plus secrets et apprennent tout ce qu’ils peuvent. Certains dieux du savoir qui encouragent la pratique de la fabrication et de l’invention incluent certaines divinités des forgerons telles que Gond, Réorx, Onatar, Moradin, Hephaestus et Goibhniu.
+
+#### Sorts du domaine du Savoir
+|Niveau de clerc|Sorts|
+|--|--|
+|1|Identification, Injonction|
+|3|Augure, Suggestion|
+|5|Antidétection, Communication avec les morts|
+
+#### Bénédictions du savoir
+Au niveau 1, vous apprenez deux langues de votre choix. Vous obtenez aussi la maîtrise de deux compétences de votre choix parmi les suivantes : Arcanes, Histoire, Nature ou Religion. Votre bonus de maîtrise est doublé pour les jets de caractéristique utilisant une de ces compétences.
+
+#### Conduit divin : Savoir ancestral
+À partir du niveau 2, vous pouvez utiliser votre Conduit divin pour tirer profit d'un puits de connaissance divine. Au prix d’une action, vous choisissez une compétence ou un outil. Pendant 10 minutes, vous obtenez la maîtrise de la compétence ou de l'outil choisi.
+
+#### Conduit divin : Lecture des pensées
+Au niveau 6, vous pouvez utiliser votre Conduit divin pour lire les pensées d’une créature. Vous pouvez ensuite avoir accès à l’esprit de la créature et la commander. Par une action, choisissez une créature que vous pouvez voir située à 18 mètres ou moins de vous. La créature doit effectuer un jet de sauvegarde de Sagesse. Si la créature le réussi, vous ne pouvez réutiliser cette capacité sur la créature qu’après avoir terminé un repos long. Si la créature échoue, vous pouvez lire la surface de ses pensées (celles les plus en vue dans son esprit, représentant ses émotions et ce à quoi elle pense actuellement) lorsqu’elle est à 18 mètres ou moins de vous. Cet effet dure une minute. Pendant cette durée, vous pouvez utiliser votre action pour mettre fin à cet effet et lancer le sort [[/sorts/Suggestion|Suggestion]] à la créature sans consommer d’emplacement de sort. La créature échoue automatiquement son jet de sauvegarde contre ce sort.
+
+### Domaine de la Tempête
+Les dieux dont les domaines incluent celui de la tempête (comme Talos, Umberlie, Kord, Zéboim, le Dévoreur, Zeus et Thor) gouvernent les orages, la mer et le ciel. Parmi eux, on compte les dieux de la foudre et du tonnerre, les dieux des tremblements de terre, quelques dieux du feu et certains dieux de la violence, de la force physique et du courage. Dans le panthéon des marins, les dieux de ce domaine sont les divinités des océans ainsi que les saints patrons des marins. Les dieux des tempêtes envoient leurs clercs pour insuffler la peur parmi la populace, pour les maintenir dans le chemin de la vertu ou pour les encourager à offrir des sacrifices afin d’apaiser la colère divine.
+
+#### Sorts du domaine de la Tempête
+|Niveau de clerc|Sorts|
+|--|--|
+|1|Nappe de brouillard, Vague tonnante|
+|3|Bourrasque, Fracassement|
+|5|Appel de la foudre, Tempête de neige|
+
+#### Maîtrises supplémentaires
+Au niveau 1, vous gagnez la maîtrise des armes de guerres et des armures lourdes.
+
+#### Fureur de l'ouragan
+Au niveau 1 également, vous pouvez réprimander vos attaquants avec la puissance du tonnerre. Lorsqu’une créature que vous pouvez voir dans un rayon de 1,50 mètre autour de vous vous touche, vous pouvez utiliser votre réaction pour obliger l’attaquant à effectuer un jet de sauvegarde de Dextérité. En cas d’échec, la créature subit 2d8 dégâts de foudre ou de tonnerre (selon votre choix), ou la moitié en cas de réussite. Vous pouvez utiliser cette capacité un nombre de fois égal à votre modificateur de Sagesse (minimum 1). Vous regagnez toutes vos charges après un repos long.
+
+#### Conduit divin : fureur destructrice
+A partir du niveau 2, vous pouvez utiliser votre Conduit divin pour manier la puissance de la tempête avec une férocité incontrôlée. Lorsque vous infligez des dégâts de foudre ou de tonnerre, vous pouvez utiliser votre Conduit divin pour effectuer des dégâts maximum au lieu de lancer des dés.
+
+#### Frappe de l'éclair
+Au niveau 6, lorsque vous infligez des dégâts de foudre à une créature de taille G ou inférieure, vous pouvez également la repousser à 3 mètres de vous.

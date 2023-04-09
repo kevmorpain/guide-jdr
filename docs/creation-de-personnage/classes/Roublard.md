@@ -114,6 +114,15 @@ Chaque fois que vous gagnez un niveau dans cette classe, vous pouvez choisir un 
 
 Vous pouvez effectuer une de ces tâches sans vous faire remarquer par une créature si vous réussissez un jet de Dextérité (Escamotage) opposé à un jet de Sagesse (Perception) de la créature. Par ailleurs, vous pouvez utiliser l'action bonus accordé par votre Ruse pour contrôler la main.
 
+### Assassin
+Vous focalisez votre entrainement sur l'art de l'assassinat. Divers personnages choisissent cet archétype : tueurs sous contrat, espions, chasseurs de primes, et même certains religieux entraînés à cela pour exterminer les ennemis de leur divinité. Discrétion, poisons et déguisements vous aident à éliminer vos cibles avec une efficacité meurtrière.
+
+#### Maîtrises supplémentaires
+Lorsque vous choisissez cet archétype au niveau 3, vous gagnez la maîtrise du kit de déguisement et du kit d'empoisonneur.
+
+#### Assassinat
+À partir du niveau 3, vous êtes au summum de votre art lorsque vous prenez votre adversaire au dépourvu. Vous avez un avantage à vos jets d'attaque contre toute créature qui n'a pas encore joué son tour durant le combat. En outre, si vous attaquez et touchez une créature surprise, cette attaque est considérée comme un coup critique.
+
 ### Voleur
 Vous perfectionnez vos compétences dans les arts du larcin. Cambrioleurs, bandits, coupe-bourses et autres criminels suivent généralement cet archétype, de même que les roublards qui se considèrent eux-mêmes comme des chercheurs de trésors professionnels, des explorateurs ou des investigateurs. En plus d'améliorer votre agilité et votre furtivité, vous apprenez des compétences utiles pour pénétrer dans des ruines antiques, lire des langues inconnues ou utiliser des objets magiques que vous ne pourriez normalement pas employer.
 

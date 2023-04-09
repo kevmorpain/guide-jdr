@@ -148,6 +148,44 @@ Au niveau 4, vous pouvez augmenter une valeur de caractéristique de votre choix
 ## Traditions arcaniques
 Les traditions arcaniques les plus communes du multivers tournent autour des écoles de magie. Les magiciens, à travers les âges, ont classé des milliers de sorts et les ont regroupés en huit catégories appelées écoles. Dans certaines régions, ces traditions sont littéralement des écoles. Ailleurs, elles sont connues comme des académies, avec des facultés rivales qui se retrouvent en compétition pour attirer les étudiants et trouver des financements.
 
+### École de l'Abjuration
+L'école d'abjuration se focalise sur la magie qui bloque, bannit ou protège. Les détracteurs de cette école disent que sa tradition porte sur le déni et la négation plutôt que sur l'affirmation positive. Vous comprenez, cependant, que mettre fin à des effets nocifs, protéger les faibles et bannir les mauvaises influences est tout sauf un vide philosophique. C'est une vocation fière et respectée. Appelés abjurateurs, les membres de cette école sont recherchés lorsque des esprits maléfiques requièrent un exorcisme, quand des lieux importants doivent être protégés contre l'espionnage magique, et quand des portails vers d'autres plans d'existence doivent être fermés.
+
+#### Abjurateur érudit
+Au niveau 2, lorsque vous choisissez cette école, l'or et le temps que vous devez dépenser pour copier un sort d'abjuration dans votre grimoire est divisé par deux.
+
+#### Protection arcanique
+À partir du niveau 2, vous pouvez tisser la magie autour de vous pour vous protéger. Lorsque vous lancez un sort d'abjuration de niveau 1 ou plus, vous pouvez utiliser simultanément un brin de la magie du sort pour créer un sceau arcanique sur vous-même qui dure jusqu'à ce que vous terminiez un repos long. Le sceau possède des points de vie égaux à deux fois votre niveau de magicien + votre modificateur d'Intelligence. Chaque fois que vous subissez des dégâts, le sceau prend les dommages à votre place. Si ces dommages réduisent le sceau à 0 point de vie, vous prenez les dommages restants.
+
+À 0 point de vie, le sceau ne peut plus absorber les dégâts, mais sa magie persiste. Chaque fois que vous lancez un sort d'abjuration de niveau 1 ou plus, le sceau récupère un nombre de points de vie égal à deux fois le niveau du sort. Une fois que vous créez un sceau, vous ne pouvez pas en créer d'autres jusqu'à ce que vous ayez terminé un repos long.
+
+#### Protection projetée
+À partir du niveau 6, quand une créature que vous pouvez voir dans un rayon de 9 mètres autour de vous subit des dégâts, vous pouvez utiliser votre réaction et absorber ses dommages grâce à votre Protection arcanique. Si ces dommages réduisent le sceau à 0 point de vie, la créature protégée prend les dommages restants.
+
+### École de la Divination
+Les conseils d'un devin sont recherchés par la royauté comme par les roturiers, car tous cherchent à comprendre le passé, le présent et le futur. En tant que devin, vous vous efforcez de retirer les voiles de l'espace, du temps et de la conscience, afin de pouvoir voir clairement. Vous travaillez à maîtriser les sorts de discernement, de visualisation à distance, de connaissance surnaturelle et de prévoyance.
+
+#### Devin érudit
+Au niveau 2, lorsque vous choisissez cette école, l'or et le temps que vous devez dépenser pour copier un sort de divination dans votre grimoire est divisé par deux.
+
+#### Présage
+À partir du niveau 2, des aperçus du futur commencent à germer dans votre conscience. Lorsque vous terminez un repos long, lancez deux d20 et notez les résultats. Vous pouvez remplacer n'importe quel jet d'attaque, de sauvegarde ou de caractéristique, qu'il soit lancé par vous ou par une créature que vous pouvez voir, par l'un de ces jets anticipés. Vous devez choisir de faire cela avant de lancer le dé, et vous ne pouvez remplacer qu'un seul jet par tour. Chaque jet anticipé ne peut être utilisé qu'une seule fois. Lorsque vous terminez un repos long, vous perdez tous les jets anticipés non-utilisés.
+
+#### Divination experte
+À partir du niveau 6, lancer des sorts de divination vous devient si facile que vous ne dépensez qu'une fraction de vos efforts pour cela. Lorsque vous lancez un sort de divination de niveau 2 ou plus, en utilisant un emplacement de sort, vous récupérez un emplacement de sort dépensé. L'emplacement que vous regagnez doit être d'un niveau inférieur au sort que vous venez de lancer et ne peut pas être d'un niveau supérieur à 5.
+
+### École de l'Enchantement
+En tant que membre de l'école d'enchantement, vous avez aiguisé votre capacité à séduire magiquement d'autres personnes et monstres. Certains enchanteurs sont des artisans de la paix qui ensorcellent le violent pour qu'il dépose les armes et charment le cruel pour sa miséricorde. D'autres sont des tyrans qui forcent par la magie les récalcitrants à leur service. Mais la plupart des enchanteurs se situent quelque part entre ces deux extrêmes.
+
+#### Enchanteur érudit
+Au niveau 2, lorsque vous choisissez cette école, l'or et le temps que vous devez dépenser pour copier un sort d'enchantement dans votre grimoire est divisé par deux.
+
+#### Regard hypnotique
+À partir du niveau 2, vos paroles apaisantes et votre regard envoûtant peuvent captiver votre auditoire. Par une action, vous choisissez une créature que vous pouvez voir située à 1,50 mètre ou moins de vous. Si la cible peut vous voir ou vous entendre, elle doit réussir un jet de sauvegarde de Sagesse contre le DD de sauvegarde de vos sorts de magicien, ou vous la charmez jusqu'à la fin de votre prochain tour. La vitesse de la créature charmée est réduite à 0, elle est incapable d'agir, et visiblement étourdie. À chaque tour suivant, vous pouvez utiliser votre action pour maintenir cet effet, prolongeant alors sa durée jusqu'à la fin de votre prochain tour. Cependant, cet effet se termine si vous vous déplacez à plus de 1,50 mètre de la créature, si celle-ci ne peut plus ni vous voir ni vous entendre, ou si elle subit des dégâts. Une fois que l'effet prend fin, ou si la créature réussit son jet de sauvegarde initial contre cet effet, vous ne pouvez plus utiliser cette capacité contre cette créature jusqu'à ce que vous terminiez un repos long.
+
+#### Charme instinctif
+À partir du niveau 6, quand une créature que vous pouvez voir et située à 9 mètres ou moins de vous réalise un jet d'attaque contre vous, vous pouvez utiliser votre réaction pour dévier l'attaque, à condition qu'une autre créature se trouve à portée de l'attaque. L'attaquant doit réaliser un jet de sauvegarde de Sagesse contre le DD de sauvegarde de vos sorts de magicien. En cas d'échec, l'attaquant doit cibler la créature la plus proche de lui, autre que vous ou lui-même. Si plusieurs créatures se trouvent en position de cibles potentielles, l'attaquant choisit celle qu'il cible. En cas de jet de sauvegarde réussit, vous ne pouvez plus utiliser cette capacité contre l'attaquant jusqu'à ce que vous terminiez un repos long. Vous devez choisir d'utiliser cette capacité avant de savoir si l'attaque vous touche ou vous manque. Les créatures ne pouvant être charmées sont immunisées à cet effet.
+
 ### École de l'Évocation
 Vous concentrez vos études sur la magie qui crée des effets élémentaires puissants telles qu'un froid glacial, une flamme brûlante, un roulement de tonnerre, une foudre qui crépite ou bien encore de l'acide brûlant. Certains évocateurs se font employer par les forces militaires, servant d'artillerie pour faire sauter les armées ennemies de loin. D'autres utilisent leurs pouvoirs spectaculaires pour protéger les faibles, tandis que d'autres servent leur propre intérêt comme des bandits, des aventuriers ou des tyrans en herbe.
 
@@ -159,6 +197,44 @@ Au niveau 2, l'or et le temps que vous devez passer pour copier un sort d'évoca
 
 #### Sort mineur puissant
 À partir du niveau 6, vos sorts mineurs qui provoquent des dégâts affectent même les créatures qui évitent leurs effets. Quand une créature réussit un jet de sauvegarde contre un de vos sorts mineurs, la créature prend la moitié des dégâts du sort (le cas échéant), mais ne souffre pas d'effet supplémentaire du sort.
+
+### École de l'Illusion
+Vous concentrez vos études sur la magie qui éblouit les sens, embrouille l'esprit et trompe même les plus sages. Votre magie est subtile, mais les illusions fabriquées par votre esprit vif rend réel ce qui semble impossible. Quelques illusionnistes, dont de nombreux gnomes magiciens, sont de petits filous qui n'utilisent leurs sorts que pour divertir. D'autres sont les plus sinistres maîtres de la tromperie, utilisant leurs illusions pour effrayer et tromper les autres afin d'obtenir un gain personnel.
+
+#### Illusionniste érudit
+Au niveau 2, lorsque vous choisissez cette école, l'or et le temps que vous devez dépenser pour copier un sort d'illusion dans votre grimoire est divisé par deux.
+
+#### Illusion mineure améliorée
+Au niveau 2, vous apprenez le sort mineur illusion mineure. Si vous connaissez déjà ce sort mineur, vous apprenez un autre sort mineur de magicien de votre choix. Le sort mineur ne compte pas dans votre nombre de sorts mineurs connus. Quand vous lancez illusion mineure, vous pouvez créer à la fois un son et une image avec un seul sort.
+
+#### Illusions malléables
+À partir du niveau 6, lorsque vous lancez un sort d'illusion qui possède une durée de 1 minute ou plus, vous pouvez utiliser votre action pour changer la nature de cette illusion (en respectant les paramètres normaux du sort pour l'illusion), à condition que vous puissiez voir l'illusion.
+
+### École de l'Invocation
+En tant qu'invocateur, vous privilégiez les sorts qui produisent des objets et des créatures. Vous pouvez faire apparaître des nuages de brouillard mortels ou invoquer des créatures venues d'ailleurs pour se battre à votre place. Au fur et à mesure que votre maîtrise grandit, vous apprenez des sorts de transport et pouvez vous téléporter sur de grandes distances, voire même sur d'autres plans d'existence, en un instant.
+
+#### Invocateur érudit
+Au niveau 2, lorsque vous choisissez cette école, l'or et le temps que vous devez dépenser pour copier un sort d'invocation dans votre grimoire est divisé par deux.
+
+#### Invocation mineure
+À partir du niveau 2, vous pouvez utiliser votre action pour invoquer un objet inanimé dans votre main ou au sol dans un espace inoccupé que vous pouvez voir et dans un rayon de 3 mètres autour de vous. Cet objet ne peut être supérieur à 1 mètre de côté et ne peut peser plus de 5 kg, et sa forme doit être celle d'un objet non magique que vous avez déjà vu. L'objet est visiblement magique, rayonnant une lumière tamisée sur 1,50 mètre. L'objet disparaît après 1 heure, lorsque vous utilisez cette capacité à nouveau, ou s'il prend ou inflige des dommages.
+
+#### Permutation
+À partir du niveau 6, vous pouvez utiliser votre action pour vous téléporter jusqu'à 9 mètres dans un espace inoccupé que vous pouvez voir. Vous pouvez également choisir un espace à portée qui est occupé par une créature de taille P ou M. Si cette créature est consentante, vous vous téléportez tous les deux, en échangeant vos places. Une fois que vous avez utilisé cette capacité, vous ne pouvez plus l'utiliser à nouveau jusqu'à ce que vous terminiez un repos long ou que vous lanciez un sort d'invocation de niveau 1 ou supérieur.
+
+### École de la Nécromancie
+L'école de nécromancie explore les forces cosmiques de la vie, de la mort et de la non-vie. Si vous concentrez vos études sur cette tradition, vous apprendrez à manipuler l'énergie qui anime tous les êtres vivants. Plus tard, vous apprendrez même à détruire le corps d’une créature en absorbant sa force de vie, transformant l’énergie vitale en pouvoir magique que vous pouvez manipuler. La plupart des personnes voient des nécromanciens comme des personnes menaçantes, voire même infâmes, en raison de leur association avec le thème de la mort. Mais tous les nécromanciens ne sont pas mauvais, même si les forces qu'ils manipulent sont considérées comme tabou par beaucoup de sociétés.
+
+#### Nécromancien érudit
+Au niveau 2, lorsque vous choisissez cette école, l'or et le temps que vous devez dépenser pour copier un sort de nécromancie dans votre grimoire est réduit de moitié.
+
+#### Sinistre moisson
+Au niveau 2, vous gagnez la possibilité de récolter l'énergie de la vie des créatures que vous tuez avec vos sorts. Une fois par tour, quand vous tuez une ou plusieurs créatures avec un sort de niveau 1 ou plus, vous regagnez un nombre de points de vie égal au double du niveau de sort, ou au triple du niveau si le sort appartient à l'école de nécromancie. Cet avantage ne s'applique pas lorsque vous tuez des artificiels ou des morts-vivants.
+
+#### Serviteurs morts-vivants
+Au niveau 6, vous ajoutez le sort animation des morts à votre grimoire s’il n'y est pas déjà. Quand vous lancez [[/sorts/Animation des morts|Animation des morts]], vous pouvez cibler un cadavre ou un tas d'os supplémentaire, créant un autre zombi ou squelette, le cas échéant. Chaque fois que vous créez un mort-vivant en utilisant un sort de nécromancie, il obtient des avantages supplémentaires :
+- Le maximum de points de vies de la créature est augmenté d'un montant égal à votre niveau de magicien.
+- La créature ajoute votre bonus de maîtrise à ses jets de dégâts avec une arme.
 
 ### École de la Transmutation
 Vous êtes un étudiant des sorts qui modifient l'énergie et la matière. Pour vous, le monde n'est pas une chose fixe ; il est au contraire éminemment modifiable, et vous éprouvez un grand plaisir à être un agent de son changement.
