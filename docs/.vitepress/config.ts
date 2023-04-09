@@ -46,11 +46,17 @@ export default defineConfig({
           link: '/creation-de-personnage/classes/',
           collapsed: false,
           items: [
+            { text: 'Barbare', link: '/creation-de-personnage/classes/Barbare' },
             { text: 'Barde', link: '/creation-de-personnage/classes/Barde' },
             { text: 'Clerc', link: '/creation-de-personnage/classes/Clerc' },
+            { text: 'Druide', link: '/creation-de-personnage/classes/Druide' },
+            { text: 'Ensorceleur', link: '/creation-de-personnage/classes/Ensorceleur' },
             { text: 'Guerrier', link: '/creation-de-personnage/classes/Guerrier' },
             { text: 'Magicien', link: '/creation-de-personnage/classes/Magicien' },
+            { text: 'Moine', link: '/creation-de-personnage/classes/Moine' },
+            { text: 'Occultiste', link: '/creation-de-personnage/classes/Occultiste' },
             { text: 'Paladin', link: '/creation-de-personnage/classes/Paladin' },
+            { text: 'Rôdeur', link: '/creation-de-personnage/classes/Rôdeur' },
             { text: 'Roublard', link: '/creation-de-personnage/classes/Roublard' },
           ]
         },
@@ -81,7 +87,7 @@ export default defineConfig({
       ],
 	    '/sorts/': scanDir('sorts'),
     },
-    outline: [2, 3],
+    outline: [2, 4],
     outlineTitle: 'Sur cette page'
   },
 
