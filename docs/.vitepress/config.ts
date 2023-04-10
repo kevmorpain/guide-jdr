@@ -24,6 +24,7 @@ export default defineConfig({
       { text: 'Classes', link: '/creation-de-personnage/classes/' },
       { text: 'Historiques', link: '/creation-de-personnage/historiques/' },
       { text: 'Sorts', link: '/sorts' },
+      { text: 'Équipement', link: '/guide/équipement/' },
     ],
 
     sidebar: {
