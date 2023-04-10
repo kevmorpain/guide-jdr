@@ -186,3 +186,32 @@ Lorsque vous intégrez le Collège du Savoir au niveau 3, vous recevez la maîtr
 
 #### Secrets magiques supplémentaires
 Au niveau 6, vous apprenez deux sorts de votre choix de n'importe quelle classe. Les sorts choisis doivent être d'un niveau que vous pouvez lancer, comme le montre la table du barde, ou être des sorts mineurs. Les sorts choisis comptent comme des sorts de barde pour vous, mais ne comptent pas pour le nombre de sorts connus.
+
+### Collège des Épées
+Version officielle du Xanathar's Guide to Everything de cette sous-classe publiée initialement dans la rubrique Unearthed Arcana.
+Les bardes du collège des épées sont appelés des lames, et ils divertissent au moyen des prouesses martiales. Les lames effectuent des tours comme avaler des épées, lancer ou jongler avec des couteaux, ou simulent des combats. Mais s'ils utilisent leurs armes pour divertir, ce sont également des guerriers qualifiés et bien entraînés.
+
+Leur talent martial inspire de nombreuses lames à mener une double vie. Une lame peut utiliser une troupe de cirque comme couverture pour commettre des actes répréhensibles comme l'assassinat, le vol ou le chantage. D'autres lames s'attaquent aux tyrans, rendant justice face aux cruels et aux puissants. C'est pourquoi, même si la plupart des troupes sont heureuses d'accepter le talent d'une lame pour l'excitation que cela ajoute à une représentation, seuls quelques artistes confient pleinement en eux.
+
+Les lames qui abandonnent la vie d'artiste ont d'ailleurs souvent eu des ennuis qui ont rendu le maintien de leurs activités secrètes impossible, car une lame surprise à voler ou rendant la justice populaire est une trop grande responsabilité pour les troupes d'artistes. Alors, leurs compétences martiales étant leur plus grand atout, ces lames travaillent ensuite comme hommes de main pour une guilde de voleurs ou se lancent dans une carrière d'aventuriers.
+
+#### Maîtrises supplémentaires
+Lorsque vous rejoignez le collège des épées au niveau 3, vous gagnez la maîtrise des armures intermédiaires et des cimeterres.
+
+Si vous maîtrisez une arme de corps à corps courante ou de guerre, vous pouvez l'utiliser comme focaliseur de sorts pour vos sorts de barde.
+
+#### Style de combat
+Au niveau 3, vous adoptez un style de combat qui est votre spécialité. Choisissez l'une des options suivantes. Vous ne pouvez pas prendre une option de Style de combat plus d'une fois, même si un élément du jeu vous permet de le faire.
+
+- **Combat à deux armes**. Lorsque vous vous engagez dans un combat avec deux armes en mains, vous pouvez ajouter votre modificateur de caractéristique aux dégâts de la seconde attaque.
+- **Duel**. Lorsque vous attaquez avec une arme de corps à corps dans une main et aucune autre arme, vous obtenez un bonus de +2 aux dégâts avec cette arme.
+
+#### Moulinet
+Au niveau 3, vous apprenez à effectuer d'impressionnants moulinets avec vos armes. Lorsque vous prenez l'action Attaquer à votre tour, votre vitesse augmente de 3 mètres jusqu'à la fin de votre tour, et si une attaque avec une arme que vous réalisez avec cette action touche une créature, vous pouvez également utiliser un des moulinets suivants. Vous ne pouvez utilisez qu'une seule option de Moulinet par tour.
+
+- **Moulinet défensif**. Vous pouvez dépenser une utilisation d'Inspiration bardique afin que la lame inflige des dégâts supplémentaires à la créature que vous venez de toucher. Lancez un dé d'Inspiration bardique ; le résultat correspond aux dégâts supplémentaires. Appliquez également le résultat comme bonus à votre CA jusqu'au début de votre prochain tour.
+- **Moulinet tranchant**. Vous pouvez dépenser une utilisation d'Inspiration bardique pour que votre arme inflige des dégâts supplémentaires à la créature que vous venez de toucher et à une autre créature de votre choix que vous pouvez voir et qui est située à 1,50 mètre ou moins de vous. Lancez un dé d'Inspiration bardique ; le résultat correspond aux dégâts supplémentaires.
+- **Moulinet mobile**. Vous pouvez dépenser une utilisation d'Inspiration bardique pour que votre arme inflige des dégâts supplémentaires à la créature que vous venez de toucher. Lancez un dé d'Inspiration bardique ; le résultat correspond aux dégâts supplémentaires. Vous pouvez également repousser la cible de 1,50 mètre de vous, plus un nombre mètres égal au nombre que vous avez obtenu avec le dé d'Inspiration bardique divisé par 3. Vous pouvez ensuite utiliser immédiatement votre réaction pour vous déplacer à votre vitesse dans un espace inoccupé à 1,50 mètre ou moins de la cible.
+
+#### Attaque supplémentaire
+À partir de niveau 6, vous pouvez attaquer deux fois, au lieu d'une, chaque fois que vous utilisez l'action Attaquer à votre tour.
