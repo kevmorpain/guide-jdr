@@ -10,7 +10,7 @@ export const scanDir = pathName => {
 }
 
 export const getMsg = path => {
-	let res = fs.readdirSync(path).filter(item => !(String(item) === '.DS_Store'))
+	let res = fs.readdirSync(path).filter(item => !(String(item) === 'index.md'))
 
 	if (res) {
 		let arr = res.map(item => {

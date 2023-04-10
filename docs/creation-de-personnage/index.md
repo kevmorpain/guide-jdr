@@ -150,7 +150,7 @@ Déterminez la taille et le poids de votre personnage. La description de votre r
 |Nain des montagnes|1,20|+2d4 x 2,5|65|x 2d6 / 2|
 
 ## 5. Choisir l'équipement
-Votre classe et votre historique déterminent votre **équipement de départ**. Notez ce matériel sur votre fiche de personnage.
+Votre classe et votre historique déterminent votre [[/guide/équipement/|équipement de départ]]. Notez ce matériel sur votre fiche de personnage.
 
 ### Classe d'armure
 Votre **classe d'armure** (CA) représente la capacité de votre personnage à éviter les blessures au combat. L'armure et le bouclier que vous portez et votre modificateur de Dextérité interviennent dans le calcul de votre CA. Certains personnages ne portent toutefois pas d'armure ou de bouclier. Votre personnage doit avoir la maîtrise des armures et boucliers qu'il porte pour s'en servir efficacement, ces maîtrisent étant octroyées ou non par votre classe.
