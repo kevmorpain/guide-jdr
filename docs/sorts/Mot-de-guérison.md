@@ -3,6 +3,10 @@ title: Mot de guérison
 level: 1
 school: évocation
 ritual: false
+linked_classes:
+  - Barde
+  - Clerc
+  - Druide
 ---
 *niveau 1 - évocation*
 

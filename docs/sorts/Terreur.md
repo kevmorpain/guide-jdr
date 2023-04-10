@@ -3,6 +3,11 @@ title: Terreur
 level: 3
 school: illusion
 ritual: false
+linked_classes:
+  - Barde
+  - Ensorceleur
+  - Magicien
+  - Occultiste
 ---
 *niveau 3 - illusion*
 

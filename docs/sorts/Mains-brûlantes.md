@@ -3,6 +3,9 @@ title: Mains brûlantes
 level: 1
 school: évocation
 ritual: false
+linked_classes:
+  - Ensorceleur
+  - Magicien
 ---
 *niveau 1 - évocation*
 

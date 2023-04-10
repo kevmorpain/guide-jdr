@@ -3,6 +3,8 @@ title: Esprits gardiens
 level: 3
 school: invocation
 ritual: false
+linked_classes:
+  - Clerc
 ---
 *niveau 3 - invocation*
 

@@ -3,6 +3,9 @@ title: Assistance
 level: 0
 school: divination
 ritual: false
+linked_classes:
+  - Clerc
+  - Druide
 ---
 *niveau 0 - divination*
 

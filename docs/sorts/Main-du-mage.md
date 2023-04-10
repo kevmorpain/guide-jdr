@@ -3,6 +3,11 @@ title: Main du mage
 level: 0
 school: invocation
 ritual: false
+linked_classes:
+  - Barde
+  - Ensorceleur
+  - Magicien
+  - Occultiste
 ---
 *niveau 0 - invocation*
 

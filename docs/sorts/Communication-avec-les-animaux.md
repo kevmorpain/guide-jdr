@@ -3,6 +3,10 @@ title: Communication avec les animaux
 level: 1
 school: divination
 ritual: true
+linked_classes:
+  - Barde
+  - Druide
+  - Rôdeur
 ---
 *niveau 1 - divination (rituel)*
 

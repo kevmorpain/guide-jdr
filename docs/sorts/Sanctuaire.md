@@ -3,6 +3,8 @@ title: Sanctuaire
 level: 1
 school: abjuration
 ritual: false
+linked_classes:
+  - Clerc
 ---
 *niveau 1 - abjuration*
 

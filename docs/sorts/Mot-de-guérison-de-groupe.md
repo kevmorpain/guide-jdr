@@ -3,6 +3,8 @@ title: Mot de guérison de groupe
 level: 3
 school: évocation
 ritual: false
+linked_classes:
+  - Clerc
 ---
 *niveau 3 - évocation*
 

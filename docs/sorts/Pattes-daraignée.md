@@ -3,6 +3,10 @@ title: Pattes d'araignée
 level: 2
 school: transmutation
 ritual: false
+linked_classes:
+  - Ensorceleur
+  - Magicien
+  - Occultiste
 ---
 *niveau 2 - transmutation*
 

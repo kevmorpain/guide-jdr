@@ -3,6 +3,14 @@ title: Dissipation de la magie
 level: 3
 school: abjuration
 ritual: false
+linked_classes:
+  - Barde
+  - Clerc
+  - Druide
+  - Ensorceleur
+  - Magicien
+  - Occultiste
+  - Paladin
 ---
 *niveau 3 - abjuration*
 

@@ -3,6 +3,9 @@ title: Aide
 level: 2
 school: abjuration
 ritual: false
+linked_classes:
+  - Clerc
+  - Paladin
 ---
 
 *niveau 2 - abjuration*

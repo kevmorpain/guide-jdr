@@ -3,6 +3,11 @@ title: Grande foulée
 level: 1
 school: transmutation
 ritual: false
+linked_classes:
+  - Barde
+  - Druide
+  - Magicien
+  - Rôdeur
 ---
 *niveau 1 - transmutation*
 

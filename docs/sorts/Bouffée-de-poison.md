@@ -3,6 +3,11 @@ title: Bouffée de poison
 level: 0
 school: invocation
 ritual: false
+linked_classes:
+  - Druide
+  - Ensorceleur
+  - Magicien
+  - Occultiste
 ---
 *niveau 0 - invocation*
 

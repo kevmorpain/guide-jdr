@@ -3,6 +3,10 @@ title: Ténèbres
 level: 2
 school: évocation
 ritual: false
+linked_classes:
+  - Ensorceleur
+  - Magicien
+  - Occultiste
 ---
 *niveau 2 - évocation*
 

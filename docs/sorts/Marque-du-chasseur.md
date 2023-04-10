@@ -3,6 +3,8 @@ title: Marque du chasseur
 level: 1
 school: divination
 ritual: false
+linked_classes:
+  - Rôdeur
 ---
 *niveau 1 - divination*
 

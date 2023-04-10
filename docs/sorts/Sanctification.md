@@ -3,6 +3,8 @@ title: Sanctification
 level: 5
 school: évocation
 ritual: false
+linked_classes:
+  - Clerc
 ---
 *niveau 5 - évocation*
 

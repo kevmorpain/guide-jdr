@@ -3,6 +3,8 @@ title: Lien de protection
 level: 2
 school: abjuration
 ritual: false
+linked_classes:
+  - Clerc
 ---
 *niveau 2 - abjuration*
 

@@ -3,6 +3,9 @@ title: Résistance
 level: 0
 school: abjuration
 ritual: false
+linked_classes:
+  - Clerc
+  - Druide
 ---
 *niveau 0 - abjuration*
 

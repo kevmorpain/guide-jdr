@@ -3,6 +3,10 @@ title: Communication à distance
 level: 3
 school: évocation
 ritual: false
+linked_classes:
+  - Barde
+  - Clerc
+  - Magicien
 ---
 *niveau 3 - évocation*
 

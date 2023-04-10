@@ -3,6 +3,8 @@ title: Flamme sacrée
 level: 0
 school: évocation
 ritual: false
+linked_classes:
+  - Clerc
 ---
 *niveau 0 - évocation*
 

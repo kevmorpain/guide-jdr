@@ -3,6 +3,10 @@ title: Zone de vérité
 level: 2
 school: enchantement
 ritual: false
+linked_classes:
+  - Barde
+  - Clerc
+  - Paladin
 ---
 *niveau 2 - enchantement*
 

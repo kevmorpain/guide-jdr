@@ -3,6 +3,8 @@ title: Blessure
 level: 1
 school: nécromancie
 ritual: false
+linked_classes:
+  - Clerc
 ---
 *niveau 1 - nécromancie*
 

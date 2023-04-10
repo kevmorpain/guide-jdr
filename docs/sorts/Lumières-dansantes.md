@@ -3,6 +3,10 @@ title: Lumières dansantes
 level: 0
 school: évocation
 ritual: false
+linked_classes:
+  - Barde
+  - Ensorceleur
+  - Magicien
 ---
 *niveau 0 - évocation*
 

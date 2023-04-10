@@ -3,6 +3,10 @@ title: Silence
 level: 2
 school: illusion
 ritual: true
+linked_classes:
+  - Barde
+  - Clerc
+  - Rôdeur
 ---
 *niveau 2 - illusion (rituel)*
 

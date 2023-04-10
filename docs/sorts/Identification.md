@@ -3,6 +3,9 @@ title: Identification
 level: 1
 school: divination
 ritual: true
+linked_classes:
+  - Barde
+  - Magicien
 ---
 *niveau 1 - divination (rituel)*
 

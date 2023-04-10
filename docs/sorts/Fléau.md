@@ -3,6 +3,9 @@ title: Fléau
 level: 1
 school: enchantement
 ritual: false
+linked_classes:
+  - Barde
+  - Clerc
 ---
 *niveau 1 - enchantement*
 

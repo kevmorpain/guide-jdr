@@ -3,6 +3,10 @@ title: Feuille morte
 level: 1
 school: transmutation
 ritual: false
+linked_classes:
+  - Barde
+  - Ensorceleur
+  - Magicien
 ---
 *niveau 1 - transmutation*
 

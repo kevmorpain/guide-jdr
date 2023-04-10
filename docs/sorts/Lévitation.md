@@ -3,6 +3,9 @@ title: Lévitation
 level: 2
 school: transmutation
 ritual: false
+linked_classes:
+  - Ensorceleur
+  - Magicien
 ---
 *niveau 2 - transmutation*
 

@@ -3,6 +3,11 @@ title: Vague tonnante
 level: 1
 school: évocation
 ritual: false
+linked_classes:
+  - Barde
+  - Druide
+  - Ensorceleur
+  - Magicien
 ---
 *niveau 1 - évocation*
 

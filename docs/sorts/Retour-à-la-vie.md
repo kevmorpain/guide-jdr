@@ -3,6 +3,9 @@ title: Retour à la vie
 level: 3
 school: nécromancie
 ritual: false
+linked_classes:
+  - Clerc
+  - Paladin
 ---
 *niveau 3 - nécromancie*
 

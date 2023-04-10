@@ -3,6 +3,8 @@ title: Faveur divine
 level: 1
 school: évocation
 ritual: false
+linked_classes:
+  - Paladin
 ---
 *niveau 1 - évocation*
 

@@ -3,6 +3,11 @@ title: Délivrance des malédictions
 level: 3
 school: abjuration
 ritual: false
+linked_classes:
+  - Clerc
+  - Magicien
+  - Occultiste
+  - Paladin
 ---
 *niveau 3 - abjuration*
 

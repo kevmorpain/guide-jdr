@@ -3,6 +3,9 @@ title: Toile d'araignée
 level: 2
 school: invocation
 ritual: false
+linked_classes:
+  - Ensorceleur
+  - Magicien
 ---
 *niveau 2 - invocation*
 

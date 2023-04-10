@@ -3,6 +3,12 @@ title: Restauration partielle
 level: 2
 school: abjuration
 ritual: false
+linked_classes:
+  - Barde
+  - Clerc
+  - Druide
+  - Paladin
+  - Rôdeur
 ---
 *niveau 2 - abjuration*
 

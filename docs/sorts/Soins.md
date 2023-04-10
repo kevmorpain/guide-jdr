@@ -3,6 +3,12 @@ title: Soins
 level: 1
 school: évocation
 ritual: false
+linked_classes:
+  - Barde
+  - Clerc
+  - Druide
+  - Paladin
+  - Rôdeur
 ---
 *niveau 1 - évocation*
 

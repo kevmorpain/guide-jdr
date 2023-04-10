@@ -3,6 +3,11 @@ title: Invisibilité
 level: 2
 school: illusion
 ritual: false
+linked_classes:
+  - Barde
+  - Ensorceleur
+  - Magicien
+  - Occultiste
 ---
 *niveau 2 - illusion*
 

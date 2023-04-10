@@ -3,6 +3,9 @@ title: Trait de feu
 level: 0
 school: évocation
 ritual: false
+linked_classes:
+  - Ensorceleur
+  - Magicien
 ---
 *niveau 0 - évocation*
 

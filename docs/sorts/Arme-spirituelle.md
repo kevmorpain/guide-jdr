@@ -3,6 +3,8 @@ title: Arme spirituelle
 level: 2
 school: évocation
 ritual: false
+linked_classes:
+  - Clerc
 ---
 *niveau 2 - évocation*
 

@@ -3,6 +3,10 @@ title: Déblocage
 level: 2
 school: transmutation
 ritual: false
+linked_classes:
+  - Barde
+  - Ensorceleur
+  - Magicien
 ---
 *niveau 2 - transmutation*
 

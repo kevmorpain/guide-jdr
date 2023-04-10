@@ -3,6 +3,11 @@ title: Prestidigitation
 level: 0
 school: transmutation
 ritual: false
+linked_classes:
+  - Barde
+  - Ensorceleur
+  - Magicien
+  - Occultiste
 ---
 *niveau 0 - transmutation*
 

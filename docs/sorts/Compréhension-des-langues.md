@@ -3,6 +3,11 @@ title: Compréhension des langues
 level: 1
 school: divination
 ritual: true
+linked_classes:
+  - Barde
+  - Ensorceleur
+  - Magicien
+  - Occultiste
 ---
 *niveau 1 - divination (rituel)*
 

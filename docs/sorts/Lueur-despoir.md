@@ -3,6 +3,8 @@ title: Lueur d'espoir
 level: 3
 school: abjuration
 ritual: false
+linked_classes:
+  - Clerc
 ---
 *niveau 3 - abjuration*
 

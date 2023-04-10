@@ -3,6 +3,9 @@ title: Boule de feu
 level: 3
 school: évocation
 ritual: false
+linked_classes:
+  - Ensorceleur
+  - Magicien
 ---
 *niveau 3 - évocation*
 

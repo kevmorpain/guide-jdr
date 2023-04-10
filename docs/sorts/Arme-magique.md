@@ -1,8 +1,11 @@
 ---
-title: Armure magique
+title: Arme magique
 level: 2
 school: transmutation
 ritual: false
+linked_classes:
+  - Magicien
+  - Paladin
 ---
 
 *niveau 2 - transmutation*

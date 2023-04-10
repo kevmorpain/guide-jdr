@@ -3,6 +3,10 @@ title: Sommeil
 level: 1
 school: enchantement
 ritual: false
+linked_classes:
+  - Barde
+  - Ensorceleur
+  - Magicien
 ---
 *niveau 1 - enchantement*
 

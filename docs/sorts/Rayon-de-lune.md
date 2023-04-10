@@ -3,6 +3,8 @@ title: Rayon de lune
 level: 2
 school: évocation
 ritual: false
+linked_classes:
+  - Druide
 ---
 *niveau 2 - évocation*
 

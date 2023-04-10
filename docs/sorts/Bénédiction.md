@@ -3,6 +3,9 @@ title: Bénédiction
 level: 1
 school: enchantement
 ritual: false
+linked_classes:
+  - Clerc
+  - Paladin
 ---
 *niveau 1 - enchantement*
 

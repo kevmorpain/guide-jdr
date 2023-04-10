@@ -3,6 +3,9 @@ title: Aspersion acide
 level: 0
 school: invocation
 ritual: false
+linked_classes:
+  - Ensorceleur
+  - Magicien
 ---
 *niveau 0 - invocation*
 

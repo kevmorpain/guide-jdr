@@ -3,6 +3,11 @@ title: Protection contre le mal et le bien
 level: 1
 school: abjuration
 ritual: false
+linked_classes:
+  - Clerc
+  - Magicien
+  - Occultiste
+  - Paladin
 ---
 *niveau 1 - abjuration*
 

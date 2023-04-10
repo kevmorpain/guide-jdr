@@ -3,6 +3,12 @@ title: Réparation
 level: 0
 school: transmutation
 ritual: false
+linked_classes:
+  - Barde
+  - Clerc
+  - Druide
+  - Ensorceleur
+  - Magicien
 ---
 *niveau 0 - transmutation*
 

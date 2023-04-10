@@ -3,6 +3,9 @@ title: Hâte
 level: 3
 school: transmutation
 ritual: false
+linked_classes:
+  - Ensorceleur
+  - Magicien
 ---
 *niveau 3 - transmutation*
 

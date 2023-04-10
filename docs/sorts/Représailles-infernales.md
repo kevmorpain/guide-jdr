@@ -3,6 +3,8 @@ title: Représailles infernales
 level: 1
 school: évocation
 ritual: false
+linked_classes:
+  - Occultiste
 ---
 *niveau 1 - évocation*
 

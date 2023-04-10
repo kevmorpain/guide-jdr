@@ -3,6 +3,8 @@ title: Rayon traçant
 level: 1
 school: évocation
 ritual: false
+linked_classes:
+  - Clerc
 ---
 *niveau 1 - évocation*
 

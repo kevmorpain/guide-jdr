@@ -3,6 +3,8 @@ title: Verrou magique
 level: 2
 school: abjuration
 ritual: false
+linked_classes:
+  - Magicien
 ---
 *niveau 2 - abjuration*
 

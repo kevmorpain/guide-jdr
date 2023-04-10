@@ -3,6 +3,8 @@ title: Frappe piégeuse
 level: 1
 school: invocation
 ritual: false
+linked_classes:
+  - Rôdeur
 ---
 *niveau 1 - invocation*
 

@@ -3,6 +3,9 @@ title: Sphère de feu
 level: 2
 school: invocation
 ritual: false
+linked_classes:
+  - Druide
+  - Magicien
 ---
 *niveau 2 - invocation*
 

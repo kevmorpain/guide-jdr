@@ -3,6 +3,11 @@ title: Suggestion
 level: 2
 school: enchantement
 ritual: false
+linked_classes:
+  - Barde
+  - Ensorceleur
+  - Magicien
+  - Occultiste
 ---
 *niveau 2 - enchantement*
 

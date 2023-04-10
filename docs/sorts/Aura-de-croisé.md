@@ -3,6 +3,8 @@ title: Aura de croisé
 level: 3
 school: évocation
 ritual: false
+linked_classes:
+  - Paladin
 ---
 *niveau 3 - évocation*
 

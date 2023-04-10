@@ -3,6 +3,9 @@ title: Armure du mage
 level: 1
 school: abjuration
 ritual: false
+linked_classes:
+  - Ensorceleur
+  - Magicien
 ---
 *niveau 1 - abjuration*
 

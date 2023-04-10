@@ -3,6 +3,9 @@ title: Bouclier de la foi
 level: 1
 school: abjuration
 ritual: false
+linked_classes:
+  - Clerc
+  - Paladin
 ---
 *niveau 1 - abjuration*
 

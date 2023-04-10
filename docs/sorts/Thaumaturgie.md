@@ -3,6 +3,8 @@ title: Thaumaturgie
 level: 0
 school: transmutation
 ritual: false
+linked_classes:
+  - Clerc
 ---
 *niveau 0 - transmutation*
 

@@ -3,6 +3,9 @@ title: Lueurs féériques
 level: 1
 school: évocation
 ritual: false
+linked_classes:
+  - Barde
+  - Druide
 ---
 *niveau 1 - évocation*
 

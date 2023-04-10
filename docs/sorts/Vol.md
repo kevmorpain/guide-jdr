@@ -3,6 +3,10 @@ title: Vol
 level: 3
 school: transmutation
 ritual: false
+linked_classes:
+  - Ensorceleur
+  - Magicien
+  - Occultiste
 ---
 *niveau 3 - transmutation*
 

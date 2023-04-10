@@ -3,6 +3,8 @@ title: Moquerie cruelle
 level: 0
 school: enchantement
 ritual: false
+linked_classes:
+  - Barde
 ---
 *niveau 0 - enchantement*
 

@@ -3,6 +3,13 @@ title: Immobilisation de personne
 level: 2
 school: enchangement
 ritual: false
+linked_classes:
+  - Barde
+  - Clerc
+  - Druide
+  - Ensorceleur
+  - Magicien
+  - Occultiste
 ---
 *niveau 2 - enchantement*
 

@@ -3,6 +3,11 @@ title: Lumière
 level: 0
 school: évocation
 ritual: false
+linked_classes:
+  - Barde
+  - Clerc
+  - Ensorceleur
+  - Magicien
 ---
 *niveau 0 - évocation*
 

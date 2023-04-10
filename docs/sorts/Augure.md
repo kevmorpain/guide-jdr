@@ -3,6 +3,8 @@ title: Augure
 level: 2
 school: divination
 ritual: true
+linked_classes:
+  - Clerc
 ---
 *niveau 2 - divination (rituel)*
 

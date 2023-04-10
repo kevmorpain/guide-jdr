@@ -3,6 +3,9 @@ title: Flou
 level: 2
 school: illusion
 ritual: false
+linked_classes:
+  - Ensorceleur
+  - Magicien
 ---
 *niveau 2 - illusion*
 

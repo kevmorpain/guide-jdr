@@ -3,6 +3,11 @@ title: Fracassement
 level: 2
 school: évocation
 ritual: false
+linked_classes:
+  - Barde
+  - Ensorceleur
+  - Magicien
+  - Occultiste
 ---
 *niveau 2 - évocation*
 

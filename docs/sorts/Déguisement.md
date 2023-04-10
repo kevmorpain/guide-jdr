@@ -3,6 +3,10 @@ title: Déguisement
 level: 1
 school: illusion
 ritual: false
+linked_classes:
+  - Barde
+  - Ensorceleur
+  - Magicien
 ---
 *niveau 1 - illusion*
 

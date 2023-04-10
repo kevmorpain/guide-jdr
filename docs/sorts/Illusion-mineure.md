@@ -3,6 +3,11 @@ title: Illusion mineure
 level: 0
 school: illusion
 ritual: false
+linked_classes:
+  - Barde
+  - Ensorceleur
+  - Magicien
+  - Occultiste
 ---
 *niveau 0 - illusion*
 

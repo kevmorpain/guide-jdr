@@ -3,6 +3,10 @@ title: Foulée brumeuse
 level: 2
 school: invocation
 ritual: false
+linked_classes:
+  - Ensorceleur
+  - Magicien
+  - Occultiste
 ---
 *niveau 2 - invocation*
 
